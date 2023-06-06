@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[]){
    int key = 1;
-   char* nome = "NicoleZ lindaz!";
+   char* nome = "Hello Zeta!";
   
    for(int i = 0; nome[i] != '0'; i++) {
       if(isalpha(nome[i])) {
